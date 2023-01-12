@@ -17,13 +17,18 @@ management will be MATLAB & Simulink.
 
 ## **Academic Material**
 
-This repository contains educational material with explanations of Life Cycle Management 
+This repository contains educational material with explanations of Life Cycle Management and Model-based Systems Engineering (MBSE)
 of energy systems using MATLAB & Simulink.
+
+### **Fundamentals of MBSE**
+Introduction to the subject. The content includes a document describing the key concepts about MBSE, V-model and simulation environments. A presentation is included to use in class.
+
+### **Requirements**
+Module about requirements writing and management.
 
 ## **Miscellaneous Material**
 
-In this repository you can find different resources, such as videos of the 
-different models in operation.
+In this repository you can find different resources, such as the solutions for the exercises.
 
 # **Mondragon University in collaboration with MathWorks**
 https://www.mondragon.edu/en/home
