@@ -20,11 +20,18 @@ management will be MATLAB & Simulink.
 This repository contains educational material with explanations of Life Cycle Management and Model-based Systems Engineering (MBSE)
 of energy systems using MATLAB & Simulink.
 
-### **Fundamentals of MBSE**
+The folders are organised following the V-model for Life Cycle management (in phases). Moreover, all files and folders are organised in a MALTAB project.
+
+![figures](https://github.com/MU-MATHWORKS/MODEL-BASED-LIFE-CYCLE-WITH-MATLAB-SIMULINK/assets/109138609/6f1f1897-a605-4e12-be16-4723e0da5cb5)
+
+### **Introduction**
 Introduction to the subject. The content includes a document describing the key concepts about MBSE, V-model and simulation environments. A presentation is included to use in class.
 
-### **Requirements**
-Module about requirements writing and management.
+### **PHASE 3. Requirements**
+Module about requirements writing and management. It contains:
+- Presentations to use in class about requirements writing and requirements management in MATLAB.
+- Requirements exercise.
+- Requirements 
 
 ## **Miscellaneous Material**
 
