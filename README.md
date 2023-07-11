@@ -4,7 +4,7 @@
 The following material is aimed at engineering students and teachers who want to acquire different skills about Life Cycle management of energy systems using models. The main tool for management will be MATLAB & Simulink.
 This material was developed by [Mondragon University](https://www.mondragon.edu/en/home) in collaboration with MathWorks for the [MSC in Smart Energy Systems](https://www.mondragon.edu/en/master-degree-smart-energy-systems).
 
-if you want to see what it's all about at a glance, read this presentation
+if you want to see what it's all about at a glance, read this [presentation](Miscellaneous/Subject introduction and description for teachers.pptx) 
 
 # **Table of Contents**
 
