@@ -6,6 +6,8 @@ This material was developed by [Mondragon University](https://www.mondragon.edu/
 
 If you want to see what it's all about at a glance, read this [presentation](https://github.com/MU-MATHWORKS/MODEL-BASED-LIFE-CYCLE-WITH-MATLAB-SIMULINK/blob/main/Miscellaneous/Subject%20introduction%20and%20description%20for%20teachers.pptx).
 
+Mensaje sobre la versión MATLAB.
+
 # **Table of Contents**
 
 - [Resources](#resources)
@@ -53,7 +55,7 @@ Module about verification and validation. It contains:
   
 ## **Miscellaneous Material**
 
-Meter artículo + presentación
+Meter artículo + presentación.
 
 In this repository you can find different resources, such as the solutions for the exercises. Apart from that, an article published at [SAEEI23](https://www.saaei.org/ediciones/edicion2023/) can be found. 
 
