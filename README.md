@@ -53,6 +53,8 @@ Module about verification and validation. It contains:
   
 ## **Miscellaneous Material**
 
+Meter artículo + presentación
+
 In this repository you can find different resources, such as the solutions for the exercises. Apart from that, an article published at [SAEEI23](https://www.saaei.org/ediciones/edicion2023/) can be found. 
 
 # **Mondragon University in collaboration with MathWorks**
