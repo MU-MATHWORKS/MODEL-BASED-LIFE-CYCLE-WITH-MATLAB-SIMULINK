@@ -74,7 +74,7 @@ This module contains:
 ### **[PHASE 4 Architecture](3_PHASE4_Architecture)**
 Module about architecture management. Material has been developed to analyze what an architecture is, when it is necessary to use it and what types of views exist. In the MATLAB & Simulink environment architectures are designed in System Composer, so the most important features have been summarized in a presentation. 
 
-Moreover, the material for a coursework about architecture design of the electric scooter has been developed. Starting from a requirements document given by the lecturer, students have to design an arquitecture that meets the requirements and link them to the System Composer architecture model. Apart from that, they have to link the [behavioural model](phase-5-design) to the architecture model.
+Moreover, the material for a coursework about architecture design of the electric scooter has been developed. Starting from a requirements document given by the lecturer, students have to design an arquitecture that meets the requirements and link them to the System Composer architecture model. Apart from that, they have to link the [behavioural model](3_PHASE5_Design/behaviouralmodels) to the architecture model.
 
 The repository includes two example architectures for the scooter linked to requirements and behavioural models.
 
