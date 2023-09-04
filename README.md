@@ -58,10 +58,10 @@ The folders are organised following the V-model for Life Cycle management (in ph
 
 ![figures](https://github.com/MU-MATHWORKS/MODEL-BASED-LIFE-CYCLE-WITH-MATLAB-SIMULINK/assets/109138609/6f1f1897-a605-4e12-be16-4723e0da5cb5)
 
-### **Introduction**
+### **[Introduction](1_Introduction)**
 Introduction to the subject. The content includes a document describing the key concepts about MBSE, V-model and simulation environments. From this document, a presentation was created to explain these main concepts in class.
 
-### **PHASE 3 Requirements**
+### **[PHASE 3 Requirements](2_PHASE3_Requirements)**
 Module about requirements writing and management. The goal of this module is to explain the importance of requirements in the development of complex systems. Students will be introduced to different types of requirements and the characteristics of a good requirement will be explained. Lecturers can practice on writing requirements.
 
 In the practical part, students work on writing and organizing requirements in Simulink Requirements. For this purpose, a brief manual on the most important aspects of this tool has been developed. As a final task, the students have to write the requirements for the scooter motor, organize them in the Requirements Manager and submit them.
@@ -71,7 +71,7 @@ This module contains:
 - motorRequirementsExercis: Requirements exercise.
 - requirementFiles: Requirement sets in MATLAB.
   
-### **PHASE 4 Architecture**
+### **[PHASE 4 Architecture](3_PHASE4_Architecture)**
 Module about architecture management. Material has been developed to analyze what an architecture is, when it is necessary to use it and what types of views exist. In the MATLAB & Simulink environment architectures are designed in System Composer, so the most important features have been summarized in a presentation. 
 
 Moreover, the material for a coursework about architecture design of the electric scooter has been developed. Starting from a requirements document given by the lecturer, students have to design an arquitecture that meets the requirements and link them to the System Composer architecture model. Apart from that, they have to link the [behavioural model](phase-5-design) to the architecture model.
@@ -83,7 +83,7 @@ Specifically, this folder contains:
 - architectureModels: Architecture models in System Composer.
 - stereotypes: Stereotype sets.
 
-### **PHASE 5 Design**
+### **[PHASE 5 Design](3_PHASE5_Design)**
 Electric scooter controller design model. This folder contains a behavioural model for designing the scooter's traction control. This model has been given to the students, since it is not the objective of the curriculum to work on the detailed design of the system. They have to link the behavioural model to requirements and the arquitecture.
 
 This folder contains:
@@ -92,7 +92,7 @@ This folder contains:
 - scripts: Control initialization scritps.
 - results: Route simulation results.
   
-### **PHASE 9 Validation**
+### **[PHASE 9 Validation](4_PHASE9_Validation)**
 Module about verification and validation. It contains:
 - docs: Presentations to use in class about Simulink test and Hardware-in-the-Loop platform development exercise.
 - realTimeModels: Real time models in Simulink for HIL platform implementation.
@@ -100,7 +100,7 @@ Module about verification and validation. It contains:
 
 This module has two main parts. On the one hand, presentations and examples have been created to work on the use of Simulink Test. The way to validate using the V-model is presented. On the other hand, material for a coursework about Hardware-in-the-loop testing has been created. Students build a HIL platform using two Texas Instruments Launchpad f28379d boards to test the controller of the scooter in real time. They have to adapt the simulation behavioural model for real time execution and compare Model-in-the-loop results with the HIL results.
   
-## **Miscellaneous Material**
+## **[Miscellaneous Material](5_Miscellaneous)**
 Miscellaneous material includes:
 - Summary presentation about this curriculum.
 - An article published at [SAEEI23](https://www.saaei.org/ediciones/edicion2023/) conference.
@@ -109,8 +109,8 @@ Miscellaneous material includes:
 
 ## *Notes*
 The repository was created from a Matlab Project. Apart from the aforementioned folders, additional files and folders can be found. All are needed for the correct execution of the project:
-- work: The project stores automatically in this folder all the information generated during the execution of Simulink models.
-- resources: This folder includes files for the definition of the project in XML files whose format is subject to change.
+- [work](work): The project stores automatically in this folder all the information generated during the execution of Simulink models.
+- [resources](resources): This folder includes files for the definition of the project in XML files whose format is subject to change.
 - shutdown.m: scripted executed when the project is closed. Workspace cleaning tasks.
 
 # **Mondragon University in collaboration with MathWorks**
