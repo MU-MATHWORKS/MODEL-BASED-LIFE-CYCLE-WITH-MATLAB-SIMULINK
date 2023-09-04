@@ -6,7 +6,7 @@ This material was developed by [Mondragon University](https://www.mondragon.edu/
 
 If you want to see what it's all about at a glance, read this [presentation](https://github.com/MU-MATHWORKS/MODEL-BASED-LIFE-CYCLE-WITH-MATLAB-SIMULINK/blob/main/Miscellaneous/Subject%20introduction%20and%20description%20for%20teachers.pptx).
 
-Mensaje sobre la versión MATLAB.
+Mensaje sobre la versión de MATLAB.
 
 # **Table of Contents**
 
