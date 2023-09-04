@@ -7,7 +7,7 @@ This master curriculum has been designed based on the development of an electric
 
 <img src="https://github.com/MU-MATHWORKS/MODEL-BASED-LIFE-CYCLE-WITH-MATLAB-SIMULINK/assets/109138609/77087dc5-6dfe-4f8a-92df-740dab71ac7b" width=50% height=50%>
 
-If you want to see what it's all about at a glance, read this [presentation](https://github.com/MU-MATHWORKS/MODEL-BASED-LIFE-CYCLE-WITH-MATLAB-SIMULINK/blob/main/Miscellaneous/Subject%20introduction%20and%20description%20for%20teachers.pptx) or watch our presentation video.
+If you want to see what it's all about at a glance, read this [presentation](5_Miscellaneous/Subject introduction and description for teachers.pptx) or watch our presentation video.
 
 https://github.com/MU-MATHWORKS/MODEL-BASED-LIFE-CYCLE-WITH-MATLAB-SIMULINK/assets/109138609/df6985d6-7669-474d-bc22-99de98604dab
 
