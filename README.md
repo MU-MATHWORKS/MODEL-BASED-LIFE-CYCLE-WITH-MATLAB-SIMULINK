@@ -27,9 +27,9 @@ This repository was created from a MATLAB project. Therefore, **the complete rep
 The project is opened in MATLAB double-clicking MODELBASEDLIFECYCLEWITHMATLABSIMULINK.prj.
 
 # **TOOLS**
-This material was created with MATLAB R2022a and the [Campus-Wide License](https://www.mathworks.com/products/matlab-campus.html) of MATLAB & Simulink.
+This material was created with MATLAB R2022a and tested with MATLAB R-.
 
-Minimum requirements: MATLAB, Simulink, Requirements Toolbox, Simulink Test, System Composer.
+Minimum requirements: MATLAB, Simulink, Requirements Toolbox, Simulink Test, System Composer. The MathWorks' [Campus-Wide License](https://www.mathworks.com/products/matlab-campus.html) provided unlimited use of MATLAB and Simulink products to all Mondragon University faculty, staff, students, and researchers, on and off campus.
 
 The module related to [validation](#phase-9-validation) includes material and a coursework about Hardware-in-the-Loop (HIL) testing. Students build a HIL platform using two Texas Instruments Launchpad f28379d boards. This part of the curriculum requires additionally: Embedded Coder, Matlab Coder, Stateflow, Embedded Coder Support Package for Texas Instruments C2000 Processors.
 
