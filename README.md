@@ -6,13 +6,16 @@ The following material is aimed at engineering lecturers who want to teach skill
 This master curriculum has been designed based on the development of an electric scooter on which the students have worked during their previous degree in Energy Engineering. Taking advantage of their knowledge about the scooter, students can work on new skills related to requirements, architecture and validation of complex systems. Material in this repository covers 30 hours of classroom work plus 20 hours of homework.
 
 <p align="center">
-<img src="https://github.com/MU-MATHWORKS/MODEL-BASED-LIFE-CYCLE-WITH-MATLAB-SIMULINK/assets/109138609/77087dc5-6dfe-4f8a-92df-740dab71ac7b" width=70% height=70%>
-<img src="https://github.com/MU-MATHWORKS/MODEL-BASED-LIFE-CYCLE-WITH-MATLAB-SIMULINK/assets/109138609/d808d2c7-229d-48d7-93d2-f53c15fb89b1" width=80% height=80%>
+  <img src="https://github.com/MU-MATHWORKS/MODEL-BASED-LIFE-CYCLE-WITH-MATLAB-SIMULINK/assets/109138609/77087dc5-6dfe-4f8a-92df-740dab71ac7b" width=70% height=70%>
+  <img src="https://github.com/MU-MATHWORKS/MODEL-BASED-LIFE-CYCLE-WITH-MATLAB-SIMULINK/assets/109138609/d808d2c7-229d-48d7-93d2-f53c15fb89b1" width=80% height=80%>
 </p>
 
 If you want to see what it's all about at a glance, read this [presentation](5_Miscellaneous) or watch our presentation video.
 
-https://github.com/MU-MATHWORKS/MODEL-BASED-LIFE-CYCLE-WITH-MATLAB-SIMULINK/assets/109138609/df6985d6-7669-474d-bc22-99de98604dab
+<p align="center">
+  <img src="https://github.com/MU-MATHWORKS/MODEL-BASED-LIFE-CYCLE-WITH-MATLAB-SIMULINK/assets/109138609/020eaacc-cfcd-4182-b252-98094eb5b036" width=70% height=70%>
+</p>
+
 
 # **TABLE OF CONTENTS**
 - [How to use this repository](#how-to-use-this-repository)
