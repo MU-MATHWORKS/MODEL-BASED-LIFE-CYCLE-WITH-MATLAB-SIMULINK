@@ -64,7 +64,8 @@ of energy systems using MATLAB & Simulink.
 
 The folders are organised following the V-model for Life Cycle management (in phases). Moreover, all files and folders are organised in a MALTAB project.
 
-![figures](https://github.com/MU-MATHWORKS/MODEL-BASED-LIFE-CYCLE-WITH-MATLAB-SIMULINK/assets/109138609/6f1f1897-a605-4e12-be16-4723e0da5cb5)
+![figures](https://github.com/MU-MATHWORKS/MODEL-BASED-LIFE-CYCLE-WITH-MATLAB-SIMULINK/assets/109138609/dfc50579-c08e-4527-b801-30f1d67541de)
+
 
 #### **[Introduction](1_Introduction)**
 Introduction to the subject. The content includes a document describing the key concepts about MBSE, V-model and simulation environments. From this document, a presentation was created to explain these main concepts in class.
