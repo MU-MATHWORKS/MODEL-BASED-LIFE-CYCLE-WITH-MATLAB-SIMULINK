@@ -113,8 +113,7 @@ This module has two main parts. On the one hand, presentations and examples have
 Miscellaneous material includes:
 - Summary presentation about this curriculum.
 - An article published at [SAEEI23](https://www.saaei.org/ediciones/edicion2023/) conference.
-- Exercise solutions.
-- Evaluation rubrics and student submissions.
+- Exercise solutions and rubrics are available for lecturers. Please ask for them in jdelolmo@mondragon.edu.
 
 ### *Notes*
 The repository was created from a MATLAB Project. Apart from the aforementioned folders, additional files and folders can be found. All are needed for the correct execution of the project:
