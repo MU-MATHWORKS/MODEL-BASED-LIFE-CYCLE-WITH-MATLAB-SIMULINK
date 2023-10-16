@@ -4,7 +4,7 @@
 
 The following material is aimed at engineering lecturers who want to teach skills about Life Cycle management of energy systems using Model-based Systems Engineering. This material was developed by [Mondragon University]([https://www.mondragon.edu/en/home](https://www.mondragon.edu/en/-/estudiantes-docentes-master-sistemas-inteligentes-energia-mathworks-material-didactico)) in collaboration with MathWorks for the [MSC in Smart Energy Systems](https://www.mondragon.edu/en/master-degree-smart-energy-systems).
 
-This master curriculum has been designed based on the development of an electric scooter on which the students have worked during their previous degree in Energy Engineering. Taking advantage of their knowledge about the scooter, students can work on new skills related to requirements, architecture and validation of complex systems. Material in this repository covers 30 hours of classroom work plus 20 hours of homework.
+This master curriculum has been designed based on the development of an electric scooter on which the students have worked during their previous degree in Energy Engineering. Taking advantage of their knowledge about the scooter, students can work on new skills related to requirements, architecture and validation of complex systems. Material in this repository covers 30 hours of classroom work plus 20 hours of homework. 
 
 ![IMG20230904143220](https://github.com/MU-MATHWORKS/MODEL-BASED-LIFE-CYCLE-WITH-MATLAB-SIMULINK/assets/109138609/267c8c34-feed-47f8-8543-bd73937410e1)
 
