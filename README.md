@@ -38,8 +38,6 @@ There are practical presentations that are combined with the MATLAB project to p
 - 4.1 Verification and Validation in MATLAB
 The idea is that the teachers first give the theoretical presentations and then go on to practice with the MATLAB tools.
 
-![image](https://github.com/MU-MATHWORKS/MODEL-BASED-LIFE-CYCLE-WITH-MATLAB-SIMULINK/assets/109138609/5f9c3f36-b4ef-40e0-b009-9150aa2c7027)
-
 ## **TOOLS**
 This material was created with MATLAB R2022a.
 
