@@ -27,6 +27,19 @@ This repository was created from a MATLAB project. Therefore, **the complete rep
 
 The project is opened in MATLAB double-clicking MODELBASEDLIFECYCLEWITHMATLABSIMULINK.prj.
 
+The order of the classes follows the life cycle. Each module is taught according to the order of the previous slide (Introduction, requirements, architecture and validation).
+There are theoretical presentations to work on the basic concepts:
+- 1.1 Fundamentals of Model Based Systems Engineering for Life Cycle Management. (additionally, there is a document with extended information).
+- 2.1 Writing requirements
+- 3.1 Architecture management
+There are practical presentations that are combined with the MATLAB project to practice with the different tools:
+- 2.2 Requirements management in MATLAB
+- 3.2 Architecture management in MATLAB
+- 4.1 Verification and Validation in MATLAB
+The idea is that the teachers first give the theoretical presentations and then go on to practice with the MATLAB tools.
+
+![image](https://github.com/MU-MATHWORKS/MODEL-BASED-LIFE-CYCLE-WITH-MATLAB-SIMULINK/assets/109138609/5f9c3f36-b4ef-40e0-b009-9150aa2c7027)
+
 ## **TOOLS**
 This material was created with MATLAB R2022a.
 
