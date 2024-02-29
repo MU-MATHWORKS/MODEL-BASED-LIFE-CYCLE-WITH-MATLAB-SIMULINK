@@ -31,7 +31,7 @@ The order of the classes follows the life cycle. Each module is taught according
 There are theoretical presentations to work on the basic concepts:
 - 1.1 Fundamentals of Model Based Systems Engineering for Life Cycle Management. (additionally, there is a document with extended information).
 - 2.1 Writing requirements
-- 3.1 Architecure management
+- 3.1 Architecture management
 There are practical presentations that are combined with the MATLAB project to practice with the different tools:
 - 2.2 Requirements management in MATLAB
 - 3.2 Architecture management in MATLAB
