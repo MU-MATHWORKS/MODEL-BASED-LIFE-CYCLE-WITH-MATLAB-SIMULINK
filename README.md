@@ -6,7 +6,7 @@ The following material is aimed at engineering lecturers who want to teach skill
 
 This master curriculum has been designed based on the development of an electric scooter on which the students have worked during their previous degree in Energy Engineering. Taking advantage of their knowledge about the scooter, students can work on new skills related to requirements, architecture and validation of complex systems. Material in this repository covers 30 hours of classroom work plus 20 hours of homework. 
 
-![273782001-267c8c34-feed-47f8-8543-bd73937410e1](https://github.com/MU-MATHWORKS/MODEL-BASED-LIFE-CYCLE-WITH-MATLAB-SIMULINK/assets/109138609/9215e688-743a-4d5f-a6e0-6e11cfa0c55d)
+![scooter_image](https://github.com/MU-MATHWORKS/MODEL-BASED-LIFE-CYCLE-WITH-MATLAB-SIMULINK/blob/main/5_Miscellaneous/scooter%20photo.jpg)
 
 If you want to see what it's all about at a glance, read this [presentation](5_Miscellaneous) or watch our presentation [video](https://www.youtube.com/watch?v=39BWme9zAQ8).
 
